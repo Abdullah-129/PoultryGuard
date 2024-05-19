@@ -1,6 +1,6 @@
 # PoultryGuard
 
 # Demo
-![Demo GIF](https://giphy.com/embed/8PJFRCX4PNcs4EYrrd)
+![Demo GIF](https://github.com/Abdullah-129/PoultryGuard/giphy.gif)
 
  
