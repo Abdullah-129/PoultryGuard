@@ -11,7 +11,7 @@ PoultryGuard leverages the power of Convolutional Neural Networks (CNN) to detec
   <li>
     <b>Clone this Repository:</b>
     <pre><code>git clone https://github.com/Abdullah-129/PoultryGuard.git
-cd your-repository
+cd PoultryGuard
 </code></pre>
   </li>
   <li>
