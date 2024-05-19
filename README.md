@@ -35,4 +35,9 @@ python server.py
   </li>
 </ol>
 
+# Note
+
+This app is designed specifically for detecting healthy poultry chickens and Newcastle disease only.
+
+
 
